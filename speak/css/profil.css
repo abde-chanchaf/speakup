@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3e5f5; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.profil {
+    background: #fff;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(106, 13, 173, 0.2);
+    width: 320px;
+    border-top: 5px solid #6A0DAD;
+}
+
+h2 {
+    color: #6A0DAD;
+    margin-bottom: 5px;
+}
+.email, .time {
+    font-size: 14px;
+    color: #555;
+}
+
+
+
+
+
+.imgprf {
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    object-fit: cover;  
+    border: 2px solid #ccc;
+    margin: 10px 0;  
+}
+
+
+
